@@ -18,7 +18,7 @@ for (let i = 0; i < emailList.length; i++) {
         puoPartecipare = true;
     }
 }
-// 6 - Mesaggio sull’esito del controllo
+// 6 - Messaggio sull’esito del controllo
 if (puoPartecipare) {
     alert("Accesso consentito, Benvenuto!");
 } else {
